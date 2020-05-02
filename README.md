@@ -1,5 +1,7 @@
 # E12a-Animation
 
+I had fun learning how to play with animation features in Godot and was able to see how it makes a difference.
+
 This is an exercise to practice creating animations in Blender and using them in Godot. This is only a simple, brief introduction (in two parts); if you want further information, I am happy to direct you to excellent tutorials online.
 
 As usual, Fork and Clone this repository.
